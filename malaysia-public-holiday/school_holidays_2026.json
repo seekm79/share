@@ -1,0 +1,122 @@
+{
+  "year": 2026,
+  "source": "Ministry of Education Malaysia (KPM)",
+  "version": "2026.04.26",
+  "lastUpdated": "2026-04-26",
+  "notes": "2026 school year returns to January start (previously March). Group A = Fri-Sat weekend states. Group B = Sat-Sun weekend states.",
+  "groups": {
+    "A": {
+      "description": "Kedah, Kelantan, Terengganu",
+      "states": ["Kedah", "Kelantan", "Terengganu"],
+      "weekend": ["Friday", "Saturday"]
+    },
+    "B": {
+      "description": "All other states and federal territories",
+      "states": ["Johor","Melaka","Negeri Sembilan","Pahang","Perak","Perlis","Penang","Sabah","Sarawak","Selangor","Kuala Lumpur","Putrajaya","Labuan"],
+      "weekend": ["Saturday", "Sunday"]
+    }
+  },
+  "terms": {
+    "A": [
+      {
+        "term": 1,
+        "label": "Term 1",
+        "label_ms": "Penggal 1",
+        "school_start": "2026-01-11",
+        "school_end": "2026-03-19",
+        "holiday_start": "2026-03-20",
+        "holiday_end": "2026-03-28",
+        "holiday_days": 9
+      },
+      {
+        "term": 2,
+        "label": "Term 2",
+        "label_ms": "Penggal 2",
+        "school_start": "2026-03-29",
+        "school_end": "2026-05-21",
+        "holiday_start": "2026-05-22",
+        "holiday_end": "2026-06-06",
+        "holiday_days": 16,
+        "notes": "Mid-Year Break / Cuti Pertengahan Tahun"
+      },
+      {
+        "term": 3,
+        "label": "Term 3",
+        "label_ms": "Penggal 3",
+        "school_start": "2026-06-07",
+        "school_end": "2026-08-27",
+        "holiday_start": "2026-08-28",
+        "holiday_end": "2026-09-05",
+        "holiday_days": 9
+      },
+      {
+        "term": 4,
+        "label": "Term 4",
+        "label_ms": "Penggal 4",
+        "school_start": "2026-09-06",
+        "school_end": "2026-12-03",
+        "holiday_start": "2026-12-04",
+        "holiday_end": "2026-12-31",
+        "holiday_days": 28,
+        "notes": "Year-End Holiday / Cuti Akhir Tahun"
+      }
+    ],
+    "B": [
+      {
+        "term": 1,
+        "label": "Term 1",
+        "label_ms": "Penggal 1",
+        "school_start": "2026-01-12",
+        "school_end": "2026-03-20",
+        "holiday_start": "2026-03-21",
+        "holiday_end": "2026-03-29",
+        "holiday_days": 9
+      },
+      {
+        "term": 2,
+        "label": "Term 2",
+        "label_ms": "Penggal 2",
+        "school_start": "2026-03-30",
+        "school_end": "2026-05-22",
+        "holiday_start": "2026-05-23",
+        "holiday_end": "2026-06-07",
+        "holiday_days": 16,
+        "notes": "Mid-Year Break / Cuti Pertengahan Tahun"
+      },
+      {
+        "term": 3,
+        "label": "Term 3",
+        "label_ms": "Penggal 3",
+        "school_start": "2026-06-08",
+        "school_end": "2026-08-28",
+        "holiday_start": "2026-08-29",
+        "holiday_end": "2026-09-06",
+        "holiday_days": 9
+      },
+      {
+        "term": 4,
+        "label": "Term 4",
+        "label_ms": "Penggal 4",
+        "school_start": "2026-09-07",
+        "school_end": "2026-12-04",
+        "holiday_start": "2026-12-05",
+        "holiday_end": "2026-12-31",
+        "holiday_days": 27,
+        "notes": "Year-End Holiday / Cuti Akhir Tahun"
+      }
+    ]
+  },
+  "festive_school_holidays": [
+    { "date": "2026-02-17", "name": "Chinese New Year", "name_ms": "Tahun Baru Cina", "days": 2, "end": "2026-02-18" },
+    { "date": "2026-03-21", "name": "Hari Raya Aidilfitri", "name_ms": "Hari Raya Aidilfitri", "days": 2, "end": "2026-03-22", "notes": "Falls within Term 1 Break" },
+    { "date": "2026-05-27", "name": "Hari Raya Haji", "name_ms": "Hari Raya Korban", "days": 1 },
+    { "date": "2026-11-08", "name": "Deepavali", "name_ms": "Deepavali", "days": 1 },
+    { "date": "2026-05-30", "name": "Harvest Festival (Sabah)", "name_ms": "Pesta Kaamatan", "days": 1, "states": ["Sabah","Labuan"] },
+    { "date": "2026-06-01", "name": "Gawai Day (Sarawak)", "name_ms": "Hari Gawai", "days": 2, "end": "2026-06-02", "states": ["Sarawak"] },
+    { "date": "2026-12-25", "name": "Christmas Day", "name_ms": "Hari Krismas", "days": 1, "notes": "During Year-End Holiday" }
+  ],
+  "next_year_start": {
+    "A": "2027-01-10",
+    "B": "2027-01-04"
+  }
+}

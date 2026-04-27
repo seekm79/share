@@ -1,0 +1,141 @@
+{
+  "lang": "en",
+  "label": "English",
+  "version": "2026.04.26",
+  "app": {
+    "app_name": "MyHoliday MY",
+    "tagline": "Malaysia Holiday Planner"
+  },
+  "nav": {
+    "home": "Home",
+    "calendar": "Calendar",
+    "plans": "Plans",
+    "settings": "Settings"
+  },
+  "setup": {
+    "title": "Set Up Your Planner",
+    "select_state": "Select your state(s)",
+    "select_state_hint": "Pick states whose holidays you want to see",
+    "annual_leave": "Annual leave days",
+    "leave_reminder": "Leave reminder",
+    "remind_before": "days before leave starts",
+    "chinese_lunar": "Chinese Lunar Calendar (农历)",
+    "chinese_lunar_desc": "Show lunar dates & festivals",
+    "prayer_days": "Prayer Days 初一十五",
+    "prayer_days_desc": "Highlight 拜拜 dates",
+    "lets_go": "Let's Go!"
+  },
+  "home": {
+    "leave_balance": "Leave Balance",
+    "days_planned": "days planned",
+    "leave_reminders": "Leave Reminders",
+    "starts_in": "Starts in",
+    "days": "days",
+    "upcoming_events": "Upcoming Events",
+    "best_leave_strategy": "Best Leave Strategy",
+    "take_day": "Take",
+    "get_days_off": "days off",
+    "upcoming_holidays": "Upcoming Holidays"
+  },
+  "calendar": {
+    "week": "WK",
+    "today": "Today",
+    "public_holiday": "Public Holiday",
+    "state_holiday": "State Holiday",
+    "your_leave": "Your Leave",
+    "festival": "Festival",
+    "event": "Event",
+    "birthday": "Birthday",
+    "no_events": "No events on this date",
+    "apply_leave": "Apply Leave",
+    "add_event": "Add Event"
+  },
+  "plans": {
+    "leave_overview": "Leave Overview",
+    "remaining": "remaining",
+    "used": "used",
+    "total": "total",
+    "new_plan": "Apply Leave",
+    "title": "Title",
+    "start_date": "Start Date",
+    "end_date": "End Date",
+    "notes": "Notes",
+    "template": "Checklist Template",
+    "create": "Create",
+    "cancel": "Cancel",
+    "leave_days": "leave days",
+    "total_days": "total days",
+    "checklist": "Preparation Checklist",
+    "add_item": "Add item...",
+    "delete_plan": "Delete Plan",
+    "delete_confirm": "Are you sure?",
+    "opportunities": "Holiday Opportunities"
+  },
+  "settings": {
+    "your_states": "Your States",
+    "annual_leave": "Annual Leave",
+    "leave_reminder": "Leave Reminder",
+    "days_before": "days before",
+    "chinese_lunar": "Chinese Lunar 农历",
+    "prayer_days": "Prayer Days 初一十五",
+    "notifications": "Notifications",
+    "leave_summary": "Leave Summary",
+    "events_birthdays": "Events & Birthdays",
+    "add_event_birthday": "Add Event / Birthday",
+    "data_sync": "Data Sync",
+    "holiday_data": "Holiday Data",
+    "synced_from_server": "Synced from server",
+    "bundled_data": "Using bundled data",
+    "last_sync": "Last sync",
+    "sync_now": "Sync Now",
+    "sync_success": "Holiday data updated!",
+    "sync_up_to_date": "Data is up to date.",
+    "sync_failed": "Sync failed",
+    "edit": "Edit",
+    "done": "Done"
+  },
+  "events": {
+    "event": "Event",
+    "birthday": "Birthday",
+    "person_name": "Person's Name",
+    "event_title": "Event Title",
+    "date": "Date",
+    "time": "Time",
+    "notes": "Notes",
+    "repeat_yearly": "Repeat yearly",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "templates": {
+    "basic": "Basic",
+    "international": "International",
+    "roadtrip": "Road Trip",
+    "staycation": "Staycation",
+    "family": "Family"
+  },
+  "days": {
+    "sun": "Sun", "mon": "Mon", "tue": "Tue", "wed": "Wed",
+    "thu": "Thu", "fri": "Fri", "sat": "Sat"
+  },
+  "days_full": {
+    "sun": "Sunday", "mon": "Monday", "tue": "Tuesday", "wed": "Wednesday",
+    "thu": "Thursday", "fri": "Friday", "sat": "Saturday"
+  },
+  "months": {
+    "jan": "January", "feb": "February", "mar": "March", "apr": "April",
+    "may": "May", "jun": "June", "jul": "July", "aug": "August",
+    "sep": "September", "oct": "October", "nov": "November", "dec": "December"
+  },
+  "common": {
+    "overdue": "Overdue",
+    "today": "Today",
+    "days_left": "days left",
+    "on_track": "On track",
+    "national": "National",
+    "all_states": "All States",
+    "delete": "Delete",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No"
+  }
+}

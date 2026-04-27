@@ -1,0 +1,98 @@
+{
+  "version": "2026.04.26",
+  "description": "Chinese Lunar Calendar data for Malaysian Chinese community",
+  "coverage": "2025-2028",
+  "lunar_months": [
+    { "gregorian_start": "2025-01-29", "lunar_month": 1,  "lunar_year": 2025, "days": 29, "is_leap": false },
+    { "gregorian_start": "2025-02-27", "lunar_month": 2,  "lunar_year": 2025, "days": 30, "is_leap": false },
+    { "gregorian_start": "2025-03-29", "lunar_month": 3,  "lunar_year": 2025, "days": 29, "is_leap": false },
+    { "gregorian_start": "2025-04-27", "lunar_month": 4,  "lunar_year": 2025, "days": 30, "is_leap": false },
+    { "gregorian_start": "2025-05-27", "lunar_month": 5,  "lunar_year": 2025, "days": 29, "is_leap": false },
+    { "gregorian_start": "2025-06-25", "lunar_month": 6,  "lunar_year": 2025, "days": 30, "is_leap": false },
+    { "gregorian_start": "2025-07-25", "lunar_month": 6,  "lunar_year": 2025, "days": 29, "is_leap": true, "leap_label": "闰六月" },
+    { "gregorian_start": "2025-08-23", "lunar_month": 7,  "lunar_year": 2025, "days": 30, "is_leap": false },
+    { "gregorian_start": "2025-09-22", "lunar_month": 8,  "lunar_year": 2025, "days": 29, "is_leap": false },
+    { "gregorian_start": "2025-10-21", "lunar_month": 9,  "lunar_year": 2025, "days": 30, "is_leap": false },
+    { "gregorian_start": "2025-11-20", "lunar_month": 10, "lunar_year": 2025, "days": 29, "is_leap": false },
+    { "gregorian_start": "2025-12-19", "lunar_month": 11, "lunar_year": 2025, "days": 30, "is_leap": false },
+    { "gregorian_start": "2026-01-18", "lunar_month": 12, "lunar_year": 2025, "days": 30, "is_leap": false },
+
+    { "gregorian_start": "2026-02-17", "lunar_month": 1,  "lunar_year": 2026, "days": 29, "is_leap": false },
+    { "gregorian_start": "2026-03-18", "lunar_month": 2,  "lunar_year": 2026, "days": 30, "is_leap": false },
+    { "gregorian_start": "2026-04-17", "lunar_month": 3,  "lunar_year": 2026, "days": 29, "is_leap": false },
+    { "gregorian_start": "2026-05-16", "lunar_month": 4,  "lunar_year": 2026, "days": 30, "is_leap": false },
+    { "gregorian_start": "2026-06-15", "lunar_month": 5,  "lunar_year": 2026, "days": 29, "is_leap": false },
+    { "gregorian_start": "2026-07-14", "lunar_month": 6,  "lunar_year": 2026, "days": 30, "is_leap": false },
+    { "gregorian_start": "2026-08-13", "lunar_month": 7,  "lunar_year": 2026, "days": 29, "is_leap": false },
+    { "gregorian_start": "2026-09-11", "lunar_month": 8,  "lunar_year": 2026, "days": 30, "is_leap": false },
+    { "gregorian_start": "2026-10-11", "lunar_month": 9,  "lunar_year": 2026, "days": 29, "is_leap": false },
+    { "gregorian_start": "2026-11-09", "lunar_month": 10, "lunar_year": 2026, "days": 30, "is_leap": false },
+    { "gregorian_start": "2026-12-09", "lunar_month": 11, "lunar_year": 2026, "days": 29, "is_leap": false },
+
+    { "gregorian_start": "2027-01-07", "lunar_month": 12, "lunar_year": 2026, "days": 30, "is_leap": false },
+    { "gregorian_start": "2027-02-06", "lunar_month": 1,  "lunar_year": 2027, "days": 29, "is_leap": false },
+    { "gregorian_start": "2027-03-07", "lunar_month": 2,  "lunar_year": 2027, "days": 30, "is_leap": false },
+    { "gregorian_start": "2027-04-06", "lunar_month": 3,  "lunar_year": 2027, "days": 29, "is_leap": false },
+    { "gregorian_start": "2027-05-05", "lunar_month": 4,  "lunar_year": 2027, "days": 30, "is_leap": false },
+    { "gregorian_start": "2027-06-04", "lunar_month": 5,  "lunar_year": 2027, "days": 29, "is_leap": false },
+    { "gregorian_start": "2027-07-03", "lunar_month": 6,  "lunar_year": 2027, "days": 30, "is_leap": false },
+    { "gregorian_start": "2027-08-02", "lunar_month": 7,  "lunar_year": 2027, "days": 29, "is_leap": false },
+    { "gregorian_start": "2027-08-31", "lunar_month": 8,  "lunar_year": 2027, "days": 30, "is_leap": false },
+    { "gregorian_start": "2027-09-30", "lunar_month": 9,  "lunar_year": 2027, "days": 29, "is_leap": false },
+    { "gregorian_start": "2027-10-29", "lunar_month": 10, "lunar_year": 2027, "days": 30, "is_leap": false },
+    { "gregorian_start": "2027-11-28", "lunar_month": 11, "lunar_year": 2027, "days": 29, "is_leap": false },
+    { "gregorian_start": "2027-12-27", "lunar_month": 12, "lunar_year": 2027, "days": 30, "is_leap": false },
+
+    { "gregorian_start": "2028-01-26", "lunar_month": 1,  "lunar_year": 2028, "days": 30, "is_leap": false },
+    { "gregorian_start": "2028-02-25", "lunar_month": 2,  "lunar_year": 2028, "days": 29, "is_leap": false },
+    { "gregorian_start": "2028-03-25", "lunar_month": 3,  "lunar_year": 2028, "days": 30, "is_leap": false },
+    { "gregorian_start": "2028-04-24", "lunar_month": 4,  "lunar_year": 2028, "days": 29, "is_leap": false },
+    { "gregorian_start": "2028-05-23", "lunar_month": 5,  "lunar_year": 2028, "days": 30, "is_leap": false },
+    { "gregorian_start": "2028-06-22", "lunar_month": 6,  "lunar_year": 2028, "days": 29, "is_leap": false },
+    { "gregorian_start": "2028-07-21", "lunar_month": 7,  "lunar_year": 2028, "days": 30, "is_leap": false },
+    { "gregorian_start": "2028-08-20", "lunar_month": 8,  "lunar_year": 2028, "days": 29, "is_leap": false },
+    { "gregorian_start": "2028-09-18", "lunar_month": 9,  "lunar_year": 2028, "days": 30, "is_leap": false },
+    { "gregorian_start": "2028-10-18", "lunar_month": 10, "lunar_year": 2028, "days": 29, "is_leap": false },
+    { "gregorian_start": "2028-11-16", "lunar_month": 11, "lunar_year": 2028, "days": 30, "is_leap": false },
+    { "gregorian_start": "2028-12-16", "lunar_month": 12, "lunar_year": 2028, "days": 29, "is_leap": false }
+  ],
+  "year_names": {
+    "2025": { "stem": "乙", "branch": "巳", "zodiac": "蛇", "full": "乙巳年 蛇年" },
+    "2026": { "stem": "丙", "branch": "午", "zodiac": "马", "full": "丙午年 马年" },
+    "2027": { "stem": "丁", "branch": "未", "zodiac": "羊", "full": "丁未年 羊年" },
+    "2028": { "stem": "戊", "branch": "申", "zodiac": "猴", "full": "戊申年 猴年" }
+  },
+  "month_names": {
+    "1": "正月", "2": "二月", "3": "三月", "4": "四月", "5": "五月", "6": "六月",
+    "7": "七月", "8": "八月", "9": "九月", "10": "十月", "11": "冬月", "12": "腊月"
+  },
+  "day_names": [
+    "", "初一","初二","初三","初四","初五","初六","初七","初八","初九","初十",
+    "十一","十二","十三","十四","十五","十六","十七","十八","十九","二十",
+    "廿一","廿二","廿三","廿四","廿五","廿六","廿七","廿八","廿九","三十"
+  ],
+  "festivals": {
+    "spring_festival":    { "name": "春节",   "name_en": "Chinese New Year",      "lunar_month": 1, "lunar_day": 1,  "type": "major" },
+    "yuan_xiao":          { "name": "元宵节", "name_en": "Lantern Festival",      "lunar_month": 1, "lunar_day": 15, "type": "major" },
+    "jade_emperor":       { "name": "天公诞", "name_en": "Jade Emperor Birthday", "lunar_month": 1, "lunar_day": 9,  "type": "prayer" },
+    "qing_ming":          { "name": "清明节", "name_en": "Qing Ming / Tomb Sweeping", "type": "solar_term",
+      "dates": { "2025": "2025-04-04", "2026": "2026-04-05", "2027": "2027-04-05", "2028": "2028-04-04" }
+    },
+    "dragon_boat":        { "name": "端午节", "name_en": "Dragon Boat Festival",  "lunar_month": 5, "lunar_day": 5,  "type": "major" },
+    "hungry_ghost_start": { "name": "中元节", "name_en": "Hungry Ghost Festival", "lunar_month": 7, "lunar_day": 15, "type": "major" },
+    "hungry_ghost_month": { "name": "鬼月",   "name_en": "Ghost Month",           "lunar_month": 7, "lunar_day": 1,  "type": "observance",
+      "description": "The entire 7th lunar month is Ghost Month. Many avoid weddings, moving house, and major purchases."
+    },
+    "mid_autumn":         { "name": "中秋节", "name_en": "Mid-Autumn / Mooncake",  "lunar_month": 8, "lunar_day": 15, "type": "major" },
+    "double_ninth":       { "name": "重阳节", "name_en": "Double Ninth / Chong Yang", "lunar_month": 9, "lunar_day": 9, "type": "observance" },
+    "winter_solstice":    { "name": "冬至",   "name_en": "Dong Zhi / Winter Solstice", "type": "solar_term",
+      "dates": { "2025": "2025-12-21", "2026": "2026-12-22", "2027": "2027-12-22", "2028": "2028-12-21" },
+      "description": "Families gather to make and eat tang yuan (glutinous rice balls)."
+    }
+  },
+  "prayer_days": {
+    "description": "初一 (1st) and 十五 (15th) of each lunar month are traditional prayer days. Many Chinese Malaysians visit temples, burn incense, and pray to ancestors.",
+    "description_ms": "Hari pertama dan kelima belas setiap bulan lunar adalah hari sembahyang tradisional.",
+    "rule": "lunar_day_1_and_15"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "lastUpdated": "2026-04-27",
+  "files": {
+    "2026.json":                   { "version": "2026.04.27" },
+    "2025.json":                   { "version": "2025.04.27" },
+    "school_holidays_2026.json":   { "version": "2026.04.27" },
+    "holiday_info.json":           { "version": "2026.04.27" },
+    "lunar_calendar.json":         { "version": "2026.04.27" },
+    "islamic_calendar.json":       { "version": "2026.04.27" },
+    "hindu_calendar.json":         { "version": "2026.04.27" },
+    "states_meta.json":            { "version": "2026.04.27" }
+  }
+}

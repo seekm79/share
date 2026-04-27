@@ -1,0 +1,203 @@
+{
+  "version": "2026.04.26",
+  "holidays": {
+    "New Year's Day": {
+      "name_ms": "Tahun Baru",
+      "name_zh": "元旦",
+      "name_ta": "புத்தாண்டு",
+      "category": "secular",
+      "description": "Marks the first day of the Gregorian calendar year. Celebrated with countdown events and fireworks.",
+      "description_ms": "Menandakan hari pertama tahun kalendar Masihi. Disambut dengan acara kiraan detik dan bunga api.",
+      "greeting": "Happy New Year",
+      "greeting_ms": "Selamat Tahun Baru"
+    },
+    "Chinese New Year": {
+      "name_ms": "Tahun Baru Cina",
+      "name_zh": "农历新年 / 春节",
+      "name_ta": "சீன புத்தாண்டு",
+      "category": "cultural",
+      "religion": "Chinese tradition",
+      "description": "Lunar New Year celebration marking the start of the Chinese calendar. Families reunite for reunion dinner (团圆饭), lion dances, and red packet (angpow) giving.",
+      "description_ms": "Perayaan Tahun Baru Lunar menandakan permulaan kalendar Cina. Keluarga berkumpul untuk makan malam reunion, tarian singa, dan pemberian angpow.",
+      "greeting": "Gong Xi Fa Cai",
+      "greeting_zh": "恭喜发财",
+      "greeting_ms": "Selamat Tahun Baru Cina",
+      "traditions": ["Reunion dinner", "Lion dance", "Angpow", "Mandarin oranges", "Open house"]
+    },
+    "Thaipusam": {
+      "name_ms": "Thaipusam",
+      "name_zh": "大宝森节",
+      "name_ta": "தைப்பூசம்",
+      "category": "religious",
+      "religion": "Hinduism",
+      "description": "Hindu festival honoring Lord Murugan. Devotees carry kavadi (ornate structures) and perform acts of devotion at Batu Caves, the largest celebration outside India.",
+      "description_ms": "Perayaan Hindu menghormati Dewa Murugan. Para penganut membawa kavadi dan melakukan ibadat di Batu Caves.",
+      "greeting": "Happy Thaipusam"
+    },
+    "Federal Territory Day": {
+      "name_ms": "Hari Wilayah Persekutuan",
+      "name_zh": "联邦直辖区日",
+      "name_ta": "மத்திய பிரதேச தினம்",
+      "category": "civic",
+      "description": "Commemorates the transfer of Kuala Lumpur to the federal government on 1 February 1974. Observed in KL, Putrajaya, and Labuan only.",
+      "description_ms": "Memperingati penyerahan Kuala Lumpur kepada kerajaan persekutuan pada 1 Februari 1974."
+    },
+    "Israk and Mikraj": {
+      "name_ms": "Israk dan Mikraj",
+      "name_zh": "夜行登霄",
+      "name_ta": "இஸ்ராக் மிக்ராஜ்",
+      "category": "religious",
+      "religion": "Islam",
+      "description": "Commemorates Prophet Muhammad's night journey from Mecca to Jerusalem and ascension to heaven. A significant event in Islamic faith.",
+      "description_ms": "Memperingati perjalanan malam Nabi Muhammad dari Mekah ke Baitul Maqdis dan kenaikan ke langit."
+    },
+    "Nuzul Al-Quran": {
+      "name_ms": "Nuzul Al-Quran",
+      "name_zh": "古兰经降世日",
+      "name_ta": "நுசுல் அல் குர்ஆன்",
+      "category": "religious",
+      "religion": "Islam",
+      "description": "Commemorates the day the first verses of the Quran were revealed to Prophet Muhammad during Ramadan.",
+      "description_ms": "Memperingati hari wahyu pertama Al-Quran diturunkan kepada Nabi Muhammad semasa bulan Ramadan."
+    },
+    "Hari Raya Aidilfitri": {
+      "name_ms": "Hari Raya Aidilfitri",
+      "name_zh": "开斋节",
+      "name_ta": "ஹரிராயா ஐதில்ஃபித்ரி",
+      "category": "religious",
+      "religion": "Islam",
+      "description": "Celebrates the end of Ramadan fasting month. Families gather for prayers, festive meals of ketupat and rendang, and open houses welcoming all races.",
+      "description_ms": "Meraikan tamatnya bulan puasa Ramadan. Keluarga berkumpul untuk solat, hidangan ketupat dan rendang, dan rumah terbuka.",
+      "greeting": "Selamat Hari Raya",
+      "greeting_ms": "Selamat Hari Raya Aidilfitri, Maaf Zahir dan Batin",
+      "traditions": ["Ketupat", "Rendang", "Open house", "Duit raya", "Baju raya", "Balik kampung"]
+    },
+    "Labour Day": {
+      "name_ms": "Hari Pekerja",
+      "name_zh": "劳动节",
+      "name_ta": "தொழிலாளர் தினம்",
+      "category": "secular",
+      "description": "International Workers' Day celebrating the achievements of workers and the labor movement.",
+      "description_ms": "Hari Pekerja Antarabangsa meraikan pencapaian pekerja dan gerakan buruh."
+    },
+    "Wesak Day": {
+      "name_ms": "Hari Wesak",
+      "name_zh": "卫塞节",
+      "name_ta": "வெசாக் தினம்",
+      "category": "religious",
+      "religion": "Buddhism",
+      "description": "Celebrates the birth, enlightenment, and death of Gautama Buddha. Devotees visit temples, meditate, and release caged birds and animals.",
+      "description_ms": "Meraikan kelahiran, pencerahan, dan kematian Gautama Buddha. Penganut mengunjungi kuil dan melepaskan burung.",
+      "greeting": "Happy Wesak Day"
+    },
+    "Yang di-Pertuan Agong's Birthday": {
+      "name_ms": "Hari Keputeraan Seri Paduka Baginda Yang di-Pertuan Agong",
+      "name_zh": "国家元首诞辰",
+      "name_ta": "ஆகோங் பிறந்தநாள்",
+      "category": "civic",
+      "description": "Official birthday of the King of Malaysia. Celebrated on the first Monday of June with a royal ceremony and awards investiture at Istana Negara.",
+      "description_ms": "Hari keputeraan rasmi Yang di-Pertuan Agong. Disambut dengan upacara penganugerahan darjah kebesaran."
+    },
+    "Hari Raya Haji": {
+      "name_ms": "Hari Raya Haji / Hari Raya Korban",
+      "name_zh": "哈芝节",
+      "name_ta": "ஹரிராயா ஹாஜி",
+      "category": "religious",
+      "religion": "Islam",
+      "description": "Festival of sacrifice marking the end of Hajj pilgrimage. Muslims perform qurban (animal sacrifice) and distribute meat to the community.",
+      "description_ms": "Perayaan korban menandakan tamatnya ibadat haji. Umat Islam melakukan korban dan mengagihkan daging.",
+      "greeting": "Selamat Hari Raya Haji"
+    },
+    "Awal Muharram": {
+      "name_ms": "Awal Muharram / Maal Hijrah",
+      "name_zh": "伊斯兰新年",
+      "name_ta": "இஸ்லாமிய புத்தாண்டு",
+      "category": "religious",
+      "religion": "Islam",
+      "description": "Islamic New Year marking the first day of Muharram and commemorating Prophet Muhammad's migration (hijrah) from Mecca to Medina.",
+      "description_ms": "Tahun Baru Islam menandakan hari pertama Muharram dan memperingati penghijrahan Nabi Muhammad dari Mekah ke Madinah."
+    },
+    "Maulidur Rasul": {
+      "name_ms": "Maulidur Rasul / Maulid Nabi",
+      "name_zh": "先知穆罕默德诞辰",
+      "name_ta": "நபிகள் நாயகம் பிறந்தநாள்",
+      "category": "religious",
+      "religion": "Islam",
+      "description": "Celebrates the birthday of Prophet Muhammad. Processions and religious lectures are held nationwide.",
+      "description_ms": "Meraikan kelahiran Nabi Muhammad. Perarakan dan ceramah agama diadakan di seluruh negara."
+    },
+    "National Day": {
+      "name_ms": "Hari Kebangsaan / Hari Merdeka",
+      "name_zh": "国庆日 / 独立日",
+      "name_ta": "தேசிய தினம்",
+      "category": "civic",
+      "description": "Celebrates the independence of the Federation of Malaya on 31 August 1957. Marked by the 'Merdeka' (Freedom) cry and patriotic celebrations.",
+      "description_ms": "Meraikan kemerdekaan Persekutuan Tanah Melayu pada 31 Ogos 1957. Ditandai dengan laungan 'Merdeka' dan sambutan patriotik.",
+      "greeting": "Selamat Hari Merdeka"
+    },
+    "Malaysia Day": {
+      "name_ms": "Hari Malaysia",
+      "name_zh": "马来西亚日",
+      "name_ta": "மலேசியா தினம்",
+      "category": "civic",
+      "description": "Commemorates the formation of Malaysia on 16 September 1963 when Malaya, Sabah, Sarawak, and Singapore united.",
+      "description_ms": "Memperingati penubuhan Malaysia pada 16 September 1963 apabila Tanah Melayu, Sabah, Sarawak, dan Singapura bergabung.",
+      "greeting": "Selamat Hari Malaysia"
+    },
+    "Deepavali": {
+      "name_ms": "Deepavali / Diwali",
+      "name_zh": "屠妖节",
+      "name_ta": "தீபாவளி",
+      "category": "religious",
+      "religion": "Hinduism",
+      "description": "Festival of Lights celebrating the triumph of good over evil, light over darkness. Homes are decorated with oil lamps (diyas) and kolam patterns.",
+      "description_ms": "Perayaan Cahaya meraikan kemenangan kebaikan atas kejahatan. Rumah dihiasi dengan pelita minyak dan corak kolam.",
+      "greeting": "Happy Deepavali",
+      "traditions": ["Oil lamps", "Kolam", "New clothes", "Murukku", "Open house"]
+    },
+    "Christmas Day": {
+      "name_ms": "Hari Krismas",
+      "name_zh": "圣诞节",
+      "name_ta": "கிறிஸ்துமஸ்",
+      "category": "religious",
+      "religion": "Christianity",
+      "description": "Celebrates the birth of Jesus Christ. Shopping malls feature elaborate decorations and Malaysians of all races enjoy the festive atmosphere.",
+      "description_ms": "Meraikan kelahiran Yesus Kristus. Pusat beli-belah dihiasi meriah dan rakyat Malaysia semua kaum menikmati suasana perayaan.",
+      "greeting": "Merry Christmas",
+      "greeting_ms": "Selamat Hari Krismas"
+    },
+    "Good Friday": {
+      "name_ms": "Jumaat Agung",
+      "name_zh": "耶稣受难日",
+      "name_ta": "புனித வெள்ளி",
+      "category": "religious",
+      "religion": "Christianity",
+      "description": "Commemorates the crucifixion of Jesus Christ. Observed as a state holiday in Sabah and Sarawak only.",
+      "description_ms": "Memperingati penyaliban Yesus Kristus. Diperhatikan sebagai cuti negeri di Sabah dan Sarawak sahaja."
+    },
+    "Gawai Day": {
+      "name_ms": "Hari Gawai Dayak",
+      "name_zh": "达雅丰收节",
+      "name_ta": "கவாய் தினம்",
+      "category": "cultural",
+      "description": "Sarawak's harvest festival celebrated by the Dayak people. Features traditional longhouse gatherings, tuak (rice wine), and ngajat dances.",
+      "description_ms": "Perayaan penuaian Sarawak disambut oleh masyarakat Dayak. Menampilkan perjumpaan di rumah panjang, tuak, dan tarian ngajat."
+    },
+    "Harvest Festival": {
+      "name_ms": "Pesta Kaamatan",
+      "name_zh": "丰收节",
+      "name_ta": "அறுவடை திருவிழா",
+      "category": "cultural",
+      "description": "Sabah's harvest festival celebrated by the Kadazandusun people. Features the Unduk Ngadau beauty pageant and traditional sumazau dance.",
+      "description_ms": "Perayaan penuaian Sabah disambut oleh masyarakat Kadazandusun. Menampilkan pertandingan Unduk Ngadau dan tarian sumazau."
+    },
+    "Sarawak Day": {
+      "name_ms": "Hari Sarawak",
+      "name_zh": "砂拉越日",
+      "name_ta": "சரவாக் தினம்",
+      "category": "civic",
+      "description": "Commemorates Sarawak's independence from British rule on 22 July 1963, before joining Malaysia.",
+      "description_ms": "Memperingati kemerdekaan Sarawak daripada penjajahan British pada 22 Julai 1963."
+    }
+  }
+}

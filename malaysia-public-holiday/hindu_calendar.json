@@ -1,0 +1,128 @@
+{
+  "version": "2026.04.27",
+  "description": "Tamil/Hindu Calendar for Malaysian Indians",
+  "coverage": "2026",
+  "tamil_year": {
+    "name": "Parabhava",
+    "name_ta": "பராபவ",
+    "number": 33,
+    "cycle": "60-year Jovian cycle",
+    "puthandu": "2026-04-14"
+  },
+  "tamil_months": [
+    { "gregorian_start": "2026-01-14", "month": 10, "name": "Thai",       "name_ta": "தை",       "days": 29 },
+    { "gregorian_start": "2026-02-13", "month": 11, "name": "Maasi",      "name_ta": "மாசி",     "days": 29 },
+    { "gregorian_start": "2026-03-14", "month": 12, "name": "Panguni",    "name_ta": "பங்குனி",  "days": 31 },
+    { "gregorian_start": "2026-04-14", "month": 1,  "name": "Chithirai",  "name_ta": "சித்திரை", "days": 31, "new_year": true },
+    { "gregorian_start": "2026-05-15", "month": 2,  "name": "Vaikasi",    "name_ta": "வைகாசி",   "days": 31 },
+    { "gregorian_start": "2026-06-15", "month": 3,  "name": "Aani",       "name_ta": "ஆனி",      "days": 32 },
+    { "gregorian_start": "2026-07-17", "month": 4,  "name": "Aadi",       "name_ta": "ஆடி",      "days": 31 },
+    { "gregorian_start": "2026-08-17", "month": 5,  "name": "Aavani",     "name_ta": "ஆவணி",     "days": 31 },
+    { "gregorian_start": "2026-09-17", "month": 6,  "name": "Purattasi",  "name_ta": "புரட்டாசி", "days": 30 },
+    { "gregorian_start": "2026-10-17", "month": 7,  "name": "Aippasi",    "name_ta": "ஐப்பசி",   "days": 30 },
+    { "gregorian_start": "2026-11-16", "month": 8,  "name": "Karthigai",  "name_ta": "கார்த்திகை","days": 30 },
+    { "gregorian_start": "2026-12-16", "month": 9,  "name": "Margazhi",   "name_ta": "மார்கழி",   "days": 29 }
+  ],
+  "festivals": {
+    "pongal": {
+      "name": "Pongal / Thai Pongal",
+      "name_ta": "பொங்கல்",
+      "dates": { "2026": "2026-01-14" },
+      "type": "major",
+      "days": 4,
+      "description": "Harvest thanksgiving festival. 4 days: Bhogi (13th), Thai Pongal (14th), Mattu Pongal (15th), Kaanum Pongal (16th)."
+    },
+    "puthandu": {
+      "name": "Puthandu / Tamil New Year",
+      "name_ta": "புத்தாண்டு",
+      "dates": { "2026": "2026-04-14" },
+      "type": "major",
+      "description": "Tamil New Year — first day of Chithirai month."
+    },
+    "thaipusam": {
+      "name": "Thaipusam",
+      "name_ta": "தைப்பூசம்",
+      "dates": { "2026": "2026-02-01" },
+      "type": "major",
+      "description": "Festival honoring Lord Murugan. Devotees carry kavadi at Batu Caves."
+    },
+    "deepavali": {
+      "name": "Deepavali",
+      "name_ta": "தீபாவளி",
+      "dates": { "2026": "2026-11-08" },
+      "type": "major",
+      "description": "Festival of Lights celebrating victory of good over evil."
+    },
+    "navaratri": {
+      "name": "Navaratri",
+      "name_ta": "நவராத்திரி",
+      "dates": { "2026": "2026-10-01" },
+      "type": "festival",
+      "days": 9,
+      "description": "Nine nights of prayer to goddess Durga."
+    },
+    "vinayagar_chaturthi": {
+      "name": "Vinayagar Chaturthi",
+      "name_ta": "விநாயகர் சதுர்த்தி",
+      "dates": { "2026": "2026-09-07" },
+      "type": "festival",
+      "description": "Birthday of Lord Ganesha."
+    },
+    "krishna_jayanthi": {
+      "name": "Sri Krishna Jayanthi",
+      "name_ta": "கிருஷ்ண ஜெயந்தி",
+      "dates": { "2026": "2026-08-25" },
+      "type": "festival",
+      "description": "Birthday of Lord Krishna."
+    },
+    "karthigai_deepam": {
+      "name": "Karthigai Deepam",
+      "name_ta": "கார்த்திகை தீபம்",
+      "dates": { "2026": "2026-12-03" },
+      "type": "festival",
+      "description": "Festival of lamps in Karthigai month."
+    },
+    "aadi_perukku": {
+      "name": "Aadi Perukku",
+      "name_ta": "ஆடிப்பெருக்கு",
+      "dates": { "2026": "2026-08-02" },
+      "type": "observance",
+      "description": "Water festival on 18th of Aadi month."
+    },
+    "maasi_magam": {
+      "name": "Maasi Magam",
+      "name_ta": "மாசி மகம்",
+      "dates": { "2026": "2026-03-04" },
+      "type": "observance",
+      "description": "Temple festival during Maasi month full moon."
+    },
+    "panguni_uthiram": {
+      "name": "Panguni Uthiram",
+      "name_ta": "பங்குனி உத்திரம்",
+      "dates": { "2026": "2026-03-31" },
+      "type": "festival",
+      "description": "Celebrates divine marriages of Hindu deities."
+    },
+    "chithra_purnima": {
+      "name": "Chithra Purnima",
+      "name_ta": "சித்திரா பூர்ணிமா",
+      "dates": { "2026": "2026-05-11" },
+      "type": "observance",
+      "description": "Full moon of Chithirai month."
+    }
+  },
+  "vratham_days": {
+    "description": "Regular Hindu fasting/prayer days",
+    "pradosham": "13th day of each lunar fortnight (twice monthly)",
+    "ekadashi": "11th day of each lunar fortnight (twice monthly, Vishnu worship)",
+    "sankatahara_chaturthi": "4th day of Krishna Paksha each month (Ganesha worship)",
+    "pournami": "Full moon day (monthly)",
+    "amavasai": "New moon day (monthly, pitru tarpanam)"
+  },
+  "auspicious_considerations": {
+    "rahu_kalam": "Daily inauspicious period (varies by day of week)",
+    "yamagandam": "Daily caution period (varies by day of week)",
+    "kuligai": "Daily inauspicious sub-period",
+    "note": "These are calculated based on sunrise/sunset and vary by location."
+  }
+}

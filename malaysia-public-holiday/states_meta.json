@@ -1,0 +1,169 @@
+{
+  "version": "2026.04.26",
+  "states": {
+    "Johor": {
+      "code": "JHR",
+      "capital": "Johor Bahru",
+      "weekend": ["Saturday", "Sunday"],
+      "weekend_note": "Changed from Fri-Sat to Sat-Sun on 1 Jan 2025",
+      "ruler_title": "Sultan",
+      "ruler_name": "Sultan Ibrahim",
+      "school_group": "B",
+      "region": "Peninsular"
+    },
+    "Kedah": {
+      "code": "KDH",
+      "capital": "Alor Setar",
+      "weekend": ["Friday", "Saturday"],
+      "ruler_title": "Sultan",
+      "ruler_name": "Sultan Sallehuddin",
+      "school_group": "A",
+      "region": "Peninsular"
+    },
+    "Kelantan": {
+      "code": "KTN",
+      "capital": "Kota Bharu",
+      "weekend": ["Friday", "Saturday"],
+      "ruler_title": "Sultan",
+      "ruler_name": "Sultan Muhammad V",
+      "school_group": "A",
+      "region": "Peninsular"
+    },
+    "Melaka": {
+      "code": "MLK",
+      "capital": "Melaka City",
+      "weekend": ["Saturday", "Sunday"],
+      "ruler_title": "Yang di-Pertua Negeri",
+      "ruler_name": "Mohd Ali Rustam",
+      "school_group": "B",
+      "region": "Peninsular"
+    },
+    "Negeri Sembilan": {
+      "code": "NSN",
+      "capital": "Seremban",
+      "weekend": ["Saturday", "Sunday"],
+      "ruler_title": "Yang di-Pertuan Besar",
+      "ruler_name": "Tuanku Muhriz",
+      "school_group": "B",
+      "region": "Peninsular"
+    },
+    "Pahang": {
+      "code": "PHG",
+      "capital": "Kuantan",
+      "weekend": ["Saturday", "Sunday"],
+      "ruler_title": "Sultan",
+      "ruler_name": "Sultan Abdullah",
+      "school_group": "B",
+      "region": "Peninsular"
+    },
+    "Penang": {
+      "code": "PNG",
+      "capital": "George Town",
+      "weekend": ["Saturday", "Sunday"],
+      "ruler_title": "Yang di-Pertua Negeri",
+      "ruler_name": "Ahmad Fuzi Abdul Razak",
+      "school_group": "B",
+      "region": "Peninsular"
+    },
+    "Perak": {
+      "code": "PRK",
+      "capital": "Ipoh",
+      "weekend": ["Saturday", "Sunday"],
+      "ruler_title": "Sultan",
+      "ruler_name": "Sultan Nazrin Shah",
+      "school_group": "B",
+      "region": "Peninsular"
+    },
+    "Perlis": {
+      "code": "PLS",
+      "capital": "Kangar",
+      "weekend": ["Saturday", "Sunday"],
+      "ruler_title": "Raja",
+      "ruler_name": "Tuanku Syed Faizuddin Putra",
+      "school_group": "B",
+      "region": "Peninsular"
+    },
+    "Sabah": {
+      "code": "SBH",
+      "capital": "Kota Kinabalu",
+      "weekend": ["Saturday", "Sunday"],
+      "ruler_title": "Yang di-Pertua Negeri",
+      "ruler_name": "Juhar Mahiruddin",
+      "school_group": "B",
+      "region": "East Malaysia"
+    },
+    "Sarawak": {
+      "code": "SRW",
+      "capital": "Kuching",
+      "weekend": ["Saturday", "Sunday"],
+      "ruler_title": "Yang di-Pertua Negeri",
+      "ruler_name": "Wan Junaidi Tuanku Jaafar",
+      "school_group": "B",
+      "region": "East Malaysia"
+    },
+    "Selangor": {
+      "code": "SGR",
+      "capital": "Shah Alam",
+      "weekend": ["Saturday", "Sunday"],
+      "ruler_title": "Sultan",
+      "ruler_name": "Sultan Sharafuddin",
+      "school_group": "B",
+      "region": "Peninsular"
+    },
+    "Terengganu": {
+      "code": "TRG",
+      "capital": "Kuala Terengganu",
+      "weekend": ["Friday", "Saturday"],
+      "ruler_title": "Sultan",
+      "ruler_name": "Sultan Mizan Zainal Abidin",
+      "school_group": "A",
+      "region": "Peninsular"
+    },
+    "Kuala Lumpur": {
+      "code": "KUL",
+      "capital": "Kuala Lumpur",
+      "weekend": ["Saturday", "Sunday"],
+      "ruler_title": null,
+      "is_federal_territory": true,
+      "school_group": "B",
+      "region": "Peninsular"
+    },
+    "Putrajaya": {
+      "code": "PJY",
+      "capital": "Putrajaya",
+      "weekend": ["Saturday", "Sunday"],
+      "ruler_title": null,
+      "is_federal_territory": true,
+      "school_group": "B",
+      "region": "Peninsular"
+    },
+    "Labuan": {
+      "code": "LBN",
+      "capital": "Victoria",
+      "weekend": ["Saturday", "Sunday"],
+      "ruler_title": null,
+      "is_federal_territory": true,
+      "school_group": "B",
+      "region": "East Malaysia"
+    }
+  },
+  "replacement_rules": {
+    "description": "When a public holiday falls on a rest day, a replacement holiday is given on the next working day.",
+    "default": {
+      "weekend": ["Saturday", "Sunday"],
+      "rule": "If holiday falls on Sunday, replaced on Monday. If Monday is also a holiday, replaced on Tuesday."
+    },
+    "Kedah": {
+      "weekend": ["Friday", "Saturday"],
+      "rule": "If holiday falls on Friday, replaced on Sunday or next working day."
+    },
+    "Kelantan": {
+      "weekend": ["Friday", "Saturday"],
+      "rule": "If holiday falls on Saturday, replaced on Sunday or next working day."
+    },
+    "Terengganu": {
+      "weekend": ["Friday", "Saturday"],
+      "rule": "If holiday falls on Saturday, replaced on Sunday or next working day."
+    }
+  }
+}
